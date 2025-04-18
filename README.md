@@ -1,3 +1,5 @@
+March 2024
+
 Perovskite is the name of a mineral CaTiO3 and more broadly refers to the name of the structure adopted by this mineral.
 The perovskite structure type is one of the most important in contemporary solid-state chemistry and is described usng the general formula ABX3, i.e. two cations A and B and 3 anions X (nearly always oxide or fluoride) per formula unit.
 The importance of perovskite materials is a direct result of their structure, which causes a range of physical and chemical properties, and has led to their application as capacitors, supervonductors, and in the production of solar cells.
