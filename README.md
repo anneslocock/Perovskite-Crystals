@@ -6,3 +6,5 @@ The diversity in properties found in perovskite is partly down to the ability of
 However, different ions and their associated properties may necessitate different distortions in the structure of the material in order to best accommodate their size and charge such that the material adopts the most stable structure. 
 These distortions generally take the form of orthorhombic, rhombohedral, or tetrahedral perovskites, and these structural changes can have significant effects on the physical properties of the material, notably its electrical and magnetic properties.
 It may therefore be of great value to be able to accurately predict the structure of as yet un-synthesised perovskites in predicting the proeprties and potential applications of new materials.
+
+This project sought to build classification models to predict the structure type of different perovskite materials on the basis of the component ions and their properties.
